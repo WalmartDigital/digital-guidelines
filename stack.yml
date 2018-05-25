@@ -1,0 +1,39 @@
+version: '3.3'
+
+services:
+  app:
+    image: zedtux/docker-coming-soon
+    networks:
+      - apps-v2
+    environment:
+      TITLE: "Digital Guidelines"
+      PRODUCT_NAME: "Walmart Digital Guidelines"
+      CATCHY_PHRASE: "Digital guidelines helps to our teams to create, innovate and mature our digital product lines sharing knowledge and make public to all people who want to learn about our evolution process ^^!"
+      GITHUB_URL: "https://github.com/WalmartDigital"
+    deploy:
+      replicas: 1
+      placement:
+        constraints:
+          - node.role == worker
+      labels:
+        traefik.docker.network: apps-v2
+        traefik.port: 80
+        traefik.frontend.rule: "Host:design-guidelines.labs-v1.walmartdigital.cl"
+      resources:
+        limits:
+          memory: 90M
+        reservations:
+          memory: 75M
+      update_config:
+        parallelism: 1
+        delay: 10s
+        failure_action: rollback
+      restart_policy:
+        condition: any
+        delay: 5s
+        max_attempts: 3
+        window: 30s
+
+networks:
+  apps-v2:
+    external: true
