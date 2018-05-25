@@ -8,7 +8,7 @@ Minor corrections or clarifications you submit for documentation and code exampl
 
 
 ## Repository organization
-The content in the Walmart Digital-docs repository follows the organization of documentation on https://digital-guidelines.labs-v1.walmartdigital.cl This repository contains category folder (like tech guideline), and each fodler has
+The content in the Walmart Digital-docs repository follows the organization of documentation on http://design-guidelines.labs-v1.walmartdigital.cl This repository contains category folder (like tech guideline), and each fodler has
 two main folders:
 
 ### \articles
