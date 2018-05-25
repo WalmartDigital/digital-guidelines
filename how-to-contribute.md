@@ -1,7 +1,6 @@
 ---
 title: "About your contributions to Walmart Digital content"
 description: ""
-weight: 20
 ---
 
 ### Minor corrections

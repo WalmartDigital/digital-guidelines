@@ -1,7 +1,6 @@
 ---
 title: "Walmart Digital Guidelines"
 description: ""
-weight: 20
 ---
 
 ## Welcome to Walmart Digital Guidelines
