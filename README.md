@@ -1,9 +1,9 @@
 ---
-title: "How to Contribute"
-description: "About your contributions to Walmart Digital content"
+title: "Walmart Digital Guidelines"
+description: "about walmart digital guidelines"
 ---
 
-## Welcome to Walmart Digital Guidelines
+#### Welcome to Walmart Digital Guidelines
 
 Digital guidelines helps to our teams to create, innovate and mature our digital product lines sharing knowledge and make public to all people who want to learn about our evolution process ^^!.
 
