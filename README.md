@@ -12,7 +12,6 @@ Digital guidelines helps to our teams to create, innovate and mature our digital
 
  <br />
  <br />
- <br />
  
 > Want to contribute with the content of the Walmart digital guidelines?
 [more info](/how-to-contribute.md)
