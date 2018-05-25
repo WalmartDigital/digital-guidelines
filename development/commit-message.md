@@ -22,7 +22,7 @@ We have the 3 categories you can use:
 
 ### Structure
 
-**[ CARD_ID|no-history ]** (**[ category ]**): **[ inline description ]**
+> **[ CARD_ID|no-history ]** (**[ category ]**): **[ inline description ]**
 
 #### Example:
-JIRA-1 (feature): add deployer api server && up test > 50%
+> JIRA-1 (feature): add deployer api server && up test > 50%
