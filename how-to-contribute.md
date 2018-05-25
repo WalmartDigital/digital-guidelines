@@ -1,6 +1,6 @@
 ---
 title: "About your contributions to Walmart Digital content"
-description: ""
+description: "@dmunozgaete"
 ---
 
 ### Minor corrections
