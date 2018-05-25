@@ -1,6 +1,6 @@
 ---
 title: "Walmart Digital Guidelines"
-description: ""
+description: "about walmart digital guidelines"
 ---
 
 ## Welcome to Walmart Digital Guidelines
