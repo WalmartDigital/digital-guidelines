@@ -9,6 +9,9 @@ Digital guidelines helps to our teams to create, innovate and mature our digital
 
 *Digital guidelines to follow as a guide and never as a regulation.*
 
+### Guidelines
+
+- [Development Guidelines](/development/commit-message.md): All guidelines associated with dev teams an tip for never stop continues delivery!
  <br />
  <br />
  
