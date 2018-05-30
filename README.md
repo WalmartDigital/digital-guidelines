@@ -11,7 +11,7 @@ Digital guidelines helps to our teams to create, innovate and mature our digital
 
 ### Guidelines
 
-- [Development Guidelines](/development/commit-message.md): All guidelines associated with dev teams an tip for never stop continues delivery!
+- [Development Guidelines](/development/commit-message.md): All guidelines associated with dev teams an tip for never stop  delivery!
  <br />
  <br />
  
