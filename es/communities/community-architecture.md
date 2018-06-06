@@ -17,8 +17,6 @@ La comunidad de arquitectura nace con el objetivo de estar actualizados en el me
 - **Foco tecnológico** en la dirección de nuestra misión (*satisfacción de nuestros clientes*).
 - **Divertirnos** en el proceso.
 
-> *La complejidad es tu enemiga. Es muy fácil hacer algo complejo, pero muy difícil hacerlo simple.*
-
 ### Objetivos y Visión
 La comunidad de arquitectura tiene como objetivo brindar un punto de intercambio de información sobre las tecnologías que usamos y proposición de ideas o nuevas herramientas que nos permite por sobre todo tener una entrega de valor continuo a nuestros equipos.
 Los objetivos concretos que perseguimos son:
@@ -34,5 +32,6 @@ Los objetivos concretos que perseguimos son:
 ### ¿Quién Puede Participar?
 Todos los que están interesados en compartir experiencias y conocimientos, como los que quieran aprender y presentar problemas o inquietudes referentes a temas técnicos o de arquitectura!.
 
+> *La complejidad es tu enemiga. Es muy fácil hacer algo complejo, pero muy difícil hacerlo simple.*
 
 ❤️ Bienvenidos todos quienes quieran ser parte de nuestra comunidad!.
