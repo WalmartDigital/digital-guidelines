@@ -32,7 +32,7 @@ Contamos con una estructura básica como guía para nuestras reuniones:
 - **Logros**: Presentamos los logros de los equipos o de las personas que participan de la comunidad que tuvieron durante la semana.
 - **Dolores**: Dolores que nos aquejan como equipos o individuos relacionados con la comunidad para que todos tengamos los mismos antecedentes
 - **El tema de la semana**: Sección donde se elige sobre un listado de temas importantes de la comunidad (*15 minutos*)
-- **Selección de la pareja de la semana**: Pareja seleccionada que organiza y facilita la reunión de la comunidad siguiente
+- **Selección de la pareja de la semana**: Pareja seleccionada que organiza y facilita la reunión de la comunidad siguiente, Recopilar nuevos temas para los prácticos, Enviar la encuesta para votar por los prácticos y Recopilar nuevos temas para “el tema de la semana”.
 - **Accionables**: Acciones que se pueden y se realizaran para corregir o procurar resolver para la siguiente reunión
 
 ## Herramientas de Apoyo a las Comunidades
