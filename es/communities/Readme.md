@@ -76,7 +76,7 @@ Luego de realizado el POST de slack , generar una encuesta con la app polly para
 ```
 
 <p align="center">
- <img width="50%" src="./media/readme-1.png">
+ <img width="70%" src="./media/readme-1.png">
 </p>
 
 *Ejemplo de un post y formulario de registros de una charla*
