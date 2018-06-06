@@ -3,7 +3,9 @@ title: "Lineamientos Walmart Digital"
 description: "Sobre lineamientos de Walmart Digital"
 ---
 <p align="center">
+<br />
 <img height="100px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Walmart_Chile_Logo_1.svg/1280px-Walmart_Chile_Logo_1.svg.png" />
+<br />
 <p>
 ## Bienvenidos a Walmart Digital
 
