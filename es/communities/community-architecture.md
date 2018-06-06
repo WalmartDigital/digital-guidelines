@@ -37,5 +37,4 @@ Todos los que están interesados en compartir experiencias y conocimientos, como
 > *La complejidad es tu enemiga. Es muy fácil hacer algo complejo, pero muy difícil hacerlo simple.*
 
 <br />
-<br />
 ❤️ &nbsp;Happy Coding!
