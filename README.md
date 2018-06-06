@@ -12,7 +12,7 @@ author: "David Muñoz"
 
 ## Bienvenidos a Walmart Digital Chile
 
-[![Chat on Slack](https://img.shields.io/badge/chat%20on-slack-green.svg?logo=slack)](https://wmt-chile.slack.com/messages/CB264TAF9/)
+[![Chat on Slack](https://img.shields.io/badge/chat%20on-slack-green.svg?logo=slack)](https://wmt-chile.slack.com)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
 El contenido de los lineamientos digitales ayudan a nuestros equipos a crear, innovar y madurar nuestras líneas de productos, compartiendo el conocimiento de forma pública a todo quien quiera aprender sobre nuestra cultura y proceso de evolución ^^.
