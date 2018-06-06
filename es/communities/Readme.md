@@ -55,16 +55,16 @@ Cuando un tema es interesante para los participantes y se requiere ahondar más 
 
 Algunas recomendaciones que pueden usar para generar charlas efectivas pueden ser:
 
-- Que la charla no se alargue más de una hora (1:15 máximo)
+- Que la charla no se alargue más de una hora (*1:15 máximo*)
 
-- Para que lo anterior sea efectivo, restringir la participación no supere un máximo de 15 personas para que todos puedan resolver sus dudas y que los charlistas puedan entregar el conocimiento de forma efectivo.
+- Para que lo anterior sea efectivo, restringir la participación no supere un máximo de **15 personas para que todos puedan resolver sus dudas** y que los charlistas puedan entregar el conocimiento de forma efectivo.
 
 - Si la charla se necesita hacer de nuevo, es válido y la idea es que sea solicitada por las personas que desean repetirla o los que deseen participar de nuevo.
 
-- Publicar la charla en el canal #charlas_comunidades generando un mensaje tipo [POST](https://get.slack.help/hc/en-us/articles/203950418-Compose-a-post) de slack indicando al menos:
+- Publicar la charla en el canal **#charlas_comunidades** generando un mensaje tipo [POST](https://get.slack.help/hc/en-us/articles/203950418-Compose-a-post) de slack indicando al menos:
    - **Lugar**: Espacio físico donde se realizará.
    - **Capacidad**: Capacidad máxima de la sala.
-   - **Horario**: Fecha y lugar donde se realizará la charla
+   - **Horario**: Fecha y hora donde se realizará la charla
    - **Relator**: Persona(s) encargadas de dar la charla
    - Temario: Lista de temas específicos que se abordaran en la charla.
    - **Descripción breve**: breve descripción y general de lo que se verá la charla.
