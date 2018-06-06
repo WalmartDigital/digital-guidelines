@@ -1,7 +1,7 @@
 ---
 title: "Lineamientos Walmart Digital"
 description: "Sobre lineamientos de Walmart Digital"
-author: "David Muñoz"
+author: "David Muñoz<david.munoz@peanuthub.cl>"
 ---
 
 <p align="center">
