@@ -1,6 +1,7 @@
 ---
 title: "Lineamientos Walmart Digital"
 description: "Sobre lineamientos de Walmart Digital"
+author: "David Muñoz"
 ---
 
 <p align="center">
