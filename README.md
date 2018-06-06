@@ -9,10 +9,10 @@ El contenido de los lineamientos digitales ayudan a nuestros equipos a crear, in
 
 *Los lineamientos Walmart Digital se deben seguir como guía y nunca como un reglamento; La evolución y creatividad no deben ser limitados ^^*
 
-### Guidelines
+### Secciones
 
-- [Development Guidelines](/development/commit-message.md): All guidelines associated with dev teams an tip for never stop  delivery!
+- [Lineamientos de Desarrollo](/es/development/commit-message.md): Lineaminetos asociados con nuestros equipos de desarrollo y su cultura de entrega de valor continuo!
  <br />
 
 > ¿Quieres contribuir con el contenido de Walmart Digital?
-conoce más [haciendo clic aquí]((./es/how-to-contribute.md))
+conoce más [haciendo clic aquí](/es/how-to-contribute.md))
