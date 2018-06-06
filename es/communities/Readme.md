@@ -11,7 +11,7 @@ Las comunidades son espacios colaborativos que tienen como objetivo compartir el
 Listado de nuestras comunidades más populares:
 - [Comunidad de Arquitectura](/es/communities/community-architecture.md): Comunidad que vela por la definición arquitectónica y técnica de nuestros desarrollos , así como también de anunciar y definir la evolución o adopción de nuevas herramientas que nos permitan optimizar nuestra entrega de valor hacia nuestros clientes.
 
-## Normas generales de conducta de las comunidades digitales
+## Sobre Códigos de Conducta
 Para crear una comunidad basta con tener ganas y ser responsable de incentivar los objetivos que se buscan con ella.
 
 Sin perjuicio de lo anterior, dejamos una lista con lo que nos parece debe ser el mínimo aceptable para la generación de una comunidad:
