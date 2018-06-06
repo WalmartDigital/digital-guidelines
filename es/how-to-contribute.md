@@ -1,37 +1,36 @@
 ---
-title: "How to Contribute"
-description: "About your contributions to Walmart Digital content"
+title: "Como Contribuir"
+description: "Sobre como contribuir con el contenido de Walmart Digital Guidelines"
 ---
 
-### Minor corrections
-Minor corrections or clarifications you submit for documentation and code examples in this repo are covered by the general terms.
+### Correciones Minimas
+Las correciones o aclaraciones que nos envias sobre la documentación o codigos de ejemplo en este repositorio estan cubiertas por los terminos generales.
 
 
-## Repository organization
-The content in the Walmart Digital-docs repository follows the organization of documentation on https://digital-guidelines.labs-v1.walmartdigital.cl This repository contains category folder (like tech guideline), and each fodler has
-two main folders:
+## Organizacion de este repositorio
+El contenido de este repositorio se encuentra disponible en https://digital-guidelines.labs-v1.walmartdigital.cl, este repositorio contiene secciones asociadas a una categoria (*por ejemplo: lineamientos de desarrollo*), y cada carpeta puede tener dos carpetas primarias:
 
 ### \articles
-The *\articles* folder contains the documentation articles formatted as markdown files with an *.md* extension. Articles are typically grouped by Walmart Digital Services.
+La carpeta *\articles* contiene información de los articulos formateado como archivos markdown (extensión *.md*). Los articulos tipicamente estan agrupados de acuerdos a los servicios que entrega Walmart Digital
 
-The *\articles* folder contains the *\media* folder for root directory article media files, inside which are subfolders with the images for each article.  The service folders contain a separate media folder for the articles within each service folder. The article image folders are named identically to the article file, minus the *.md* file extension.
+La carpeta *\articles* puede contener una carpeta *\media* en su base, y contiene sub carpetas de cada articulo con las imagenes presentadas en cada articulo. Cada archivo multimedia que se encuentre dentro de esta carpeta deberan ser nombrados identicamente al nombre del articulo menos la extensión *.md*, de existir mas de un archivo del mismo tipo para un articulo, se debe agregar al final del nombre un - con un numero correlativo al nombre (*ejemplo: articulo-2.jpg, articulo-3.jpg*)
 
 ### \includes
-You can create reusable content sections to be included in one or more articles. 
+Puedes crear contenido reusable para las secciones, y estos deben ser localizados en esta carpeta. (imagenes, documentos generales, etc.).
 
-## How to use markdown to format your topic
-All the articles in this repository use GitHub flavored markdown.  Here's a list of resources.
+## Como usar markdown para formatear tu contenido
+Todos los articulos en este repositorio GitHub usan flavores markdown , por lo que te dejamos una lista de recursos para que puedas usarlo como guía.
 
 * [Markdown basics](https://help.github.com/articles/markdown-basics/)
 
 
-## Labels
-In the public Walmart Digital Docs repository, automated labels are assigned to pull requests to help us manage the pull request workflow and to help let you know what's going on with your pull request:
+## Etiquetas
+En este repositorio publico, las etiquetas son asignadas de forma manual al hacer algún pull request (PR) y nos ayudan a saber el objetivo y alcance de el contenido que nos estar ayudando a mejorar.
 
 * Contribution License Agreement related
-  * cla-not-required: The change is relatively minor and does not require that you sign a CLA.
-  * cla-required: The scope of the change is relatively large and requires that you sign a CLA.
-* Change sent to author: The author has been notified of the pending pull request.
-* ready-to-merge: Ready for review by our pull request review team.
+  * cla-not-required: El cambio es menor y no requiere de la aceptación de nuestros acuerdos como contribuidor CLA.
+  * cla-required: El alcance de este cambio es amplio y sensible y requiere de la aceptación de los acuerdos como contribuidor CLA.
+* Change sent to author: Los cambios del autor fueron notificados y estan en un pull request pendiente.
+* ready-to-merge: Los cambios estan listos y pendiente de revisión por nuestros equipos internos de revisión.
 
 **CLA**: Contributor License Agremment.
