@@ -8,7 +8,7 @@ author: "David Muñoz"
 
 Las comunidades son espacios colaborativos que tienen como objetivo compartir el conocimiento y vivencias de nuestro día a día en Walmart Digital, o aportar con ideas frescas que nos permitan entregar un mejor valor hacia nuestros clientes y aprender de ello en el proceso.
 
-Listado de nuestras comunidades mas populares:
+Listado de nuestras comunidades más populares:
 - [Comunidad de Arquitectura](/es/communities/community-architecture.md): Comunidad que vela por la definición arquitectónica y técnica de nuestros desarrollos , así como también de anunciar y definir la evolución o adopción de nuevas herramientas que nos permitan optimizar nuestra entrega de valor hacia nuestros clientes.
 
 ## Normas generales de conducta de las comunidades digitales
@@ -31,8 +31,8 @@ Contamos con una estructura básica como guía para nuestras reuniones:
 
 - **Logros**: Presentamos los logros de los equipos o de las personas que participan de la comunidad que tuvieron durante la semana.
 - **Dolores**: Dolores que nos aquejan como equipos o individuos relacionados con la comunidad para que todos tengamos los mismos antecedentes
-- **El tema de la semana**: Sección donde se elije sobre un listado de temas importantes de la comunidad (*15 minutos*)
-- **Selección de la pareja de la semana**: Pareja seleccionada que organiza y facilita la reunion de la comunidad siguiente
+- **El tema de la semana**: Sección donde se elige sobre un listado de temas importantes de la comunidad (*15 minutos*)
+- **Selección de la pareja de la semana**: Pareja seleccionada que organiza y facilita la reunión de la comunidad siguiente
 - **Accionables**: Acciones que se pueden y se realizaran para corregir o procurar resolver para la siguiente reunión
 
 ## Herramientas de Apoyo a las Comunidades
@@ -99,4 +99,5 @@ Luego de realizado el POST de slack , generar una encuesta con la app polly para
 
 > ¿Quieres contribuir con el contenido de Walmart Digital?
 conoce más [haciendo clic aquí](/es/how-to-contribute.md)
+
 
