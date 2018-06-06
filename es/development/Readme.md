@@ -6,7 +6,7 @@ author: "David Muñoz"
 
 ## Lineamientos de Desarrollo
 
-Para una evolución constante, se requiere de un desafío constante, y como todos en el equipo de desarrollo de Walmart Digital pensamos así; Este articulo entrega los lineamientos básicos de la interacción entre nosotros y los sistemas con los trabajamos día a día para que podamos enfocarnos en nuestros objetivos diarios y volver a este repositorio como ayuda memorias ^^.
+Para una evolución constante, se requiere de un desafío constante!.., y como todos en el equipo de desarrollo de Walmart Digital pensamos así; Este articulo entrega los lineamientos básicos de la interacción entre nosotros y los sistemas con los trabajamos día a día para que podamos enfocarnos en nuestros objetivos diarios y volver a este repositorio como ayuda memoria :shipit:.
 
 A continuación, listamos los tópicos más populares en nuestra interacción diaria y las recomendaciones generales para su uso correcto en pro de ayudarnos como equipo.
 
