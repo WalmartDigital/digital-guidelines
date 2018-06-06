@@ -18,7 +18,7 @@ El contenido de los lineamientos digitales ayudan a nuestros equipos a crear, in
 
 ### Secciones
 
-- [Lineamientos de Desarrollo](/es/development/commit-message.md): Lineamientos  asociados con nuestros equipos de desarrollo y su cultura de entrega de valor continuo!
+- [Lineamientos de Desarrollo](/es/development/Readme.md): Lineamientos  asociados con nuestros equipos de desarrollo y su cultura de entrega de valor continuo!
  <br />
 
 > ¿Quieres contribuir con el contenido de Walmart Digital?
