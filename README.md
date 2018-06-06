@@ -10,7 +10,7 @@ author: "David Muñoz"
 <br />
 </p>
 
-## Bienvenidos a Walmart Digital
+## Bienvenidos a Walmart Digital Chile
 
 [![Chat on Slack](https://img.shields.io/badge/chat%20on-slack-green.svg?logo=slack)](https://wmt-chile.slack.com/messages/CB264TAF9/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
@@ -29,3 +29,4 @@ El contenido de los lineamientos digitales ayudan a nuestros equipos a crear, in
 
 > ¿Quieres contribuir con el contenido de Walmart Digital?
 conoce más [haciendo clic aquí](/es/how-to-contribute.md)
+
