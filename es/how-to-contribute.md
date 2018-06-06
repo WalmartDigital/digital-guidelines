@@ -33,3 +33,5 @@ En este repositorio público, las etiquetas son asignadas de forma manual al hac
 * **ready-to-merge**: Los cambios estan listos y pendiente de revisión por nuestros equipos internos de revisión.
 
 **CLA**: Contributor License Agremment.
+
+**Trabajando en tu primer Pull Request?** Puedes seguir la guía gratuita de como realizar un PR [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github)
