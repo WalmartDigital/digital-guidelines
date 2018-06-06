@@ -3,6 +3,8 @@ title: "Lineamientos Walmart Digital"
 description: "Sobre lineamientos de Walmart Digital"
 ---
 
+![Walmart Labs](https://techcrunch.com/wp-content/uploads/2012/11/walmartlabs-logo.jpg?w=1390&crop=1)
+
 ## Bienvenidos a Walmart Digital
 
 El contenido de los lineamientos digitales ayudan a nuestros equipos a crear, innovar y madurar nuestras lineas de productos, compartiendo el conocimiento de forma pública a todo quien quiera aprender sobre nuestra cultura y proceso de evolución ^^.
