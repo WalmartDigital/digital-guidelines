@@ -11,6 +11,10 @@ Las comunidades son espacios colaborativos que tienen como objetivo compartir el
 Listado de nuestras comunidades más populares:
 - [Comunidad de Arquitectura](/es/communities/community-architecture.md): Comunidad que vela por la definición arquitectónica y técnica de nuestros desarrollos , así como también de anunciar y definir la evolución o adopción de nuevas herramientas que nos permitan optimizar nuestra entrega de valor hacia nuestros clientes.
 
+- [Comunidad de Calidad](/es/communities/community-quality.md): Comunidad que vela por la calidad de nuestros productos y nos permite aumentar la solidez y confianza de nuestros sistemas digitales.
+
+- [Comunidad de Product Owner](/es/communities/community-product-owner.md): *descripción pendiete*.
+
 ## Sobre Códigos de Conducta
 Para crear una comunidad basta con tener ganas y ser responsable de incentivar los objetivos que se buscan con ella.
 
