@@ -3,7 +3,7 @@ title: "Lineamientos Walmart Digital"
 description: "Sobre lineamientos de Walmart Digital"
 ---
 
-## Bienvenidos a: Walmart Digital
+## Bienvenidos a Walmart Digital
 
 El contenido de los lineamientos digitales ayudan a nuestros equipos a crear, innovar y madurar nuestras lineas de productos, compartiendo el conocimiento de forma pública a todo quien quiera aprender sobre nuestra cultura y proceso de evolución ^^.
 
@@ -15,4 +15,4 @@ El contenido de los lineamientos digitales ayudan a nuestros equipos a crear, in
  <br />
 
 > ¿Quieres contribuir con el contenido de Walmart Digital?
-conoce más [haciendo clic aquí](/es/how-to-contribute.md))
+conoce más [haciendo clic aquí](/es/how-to-contribute.md)
