@@ -6,6 +6,8 @@ author: "David Muñoz"
 
 ## Comunidad de Arquitectura
 
+[![Chat on Slack](https://img.shields.io/badge/chat%20on-slack-green.svg?logo=slack)](https://wmt-chile.slack.com/messages/CAKQLMDAN/)
+
 ### Concepción de la comunidad
 > *La disrupción digital es el cambio que ocurre cuando las nuevas tecnologías digitales y los modelos de negocio afectan la propuesta de valor de bienes y servicios existentes.*
 
@@ -34,4 +36,4 @@ Todos los que están interesados en compartir experiencias y conocimientos, como
 
 > *La complejidad es tu enemiga. Es muy fácil hacer algo complejo, pero muy difícil hacerlo simple.*
 
-❤️ Bienvenidos todos quienes quieran ser parte de nuestra comunidad!.
+❤️ &nbsp;&nbsp;Happy Coding!
