@@ -1,21 +1,15 @@
 ---
-title: "Walmart Digital Guidelines"
-description: "about walmart digital guidelines"
+title: "Lineamientos Walmart Digital"
+description: "Sobre lineamientos de Walmart Digital"
 ---
 
-## Welcome to Walmart Digital Guidelines
+## Bienvenidos a: Walmart Digital
 
-Digital guidelines helps to our teams to create, innovate and mature our digital product lines sharing knowledge and make public to all people who want to learn about our evolution process ^^!.
+El contenido de los lineamientos digitales ayudan a nuestros equipos a crear, innovar y madurar nuestras lineas de productos, compartiendo el conocimiento de forma pública a todo quien quiera aprender sobre nuestra cultura y proceso de evolución ^^.
 
-*Digital guidelines to follow as a guide and never as a regulation.*
+*Los lineamientos Walmart Digital se deben seguir como guía y nunca como un reglamento; La evolución y creatividad no deben ser limitados ^^*
 
  <br />
- <br />
- 
-> Want to contribute with the content of the Walmart digital guidelines?
-[more info](/how-to-contribute.md)
 
-
-
-
-
+> ¿Quieres contribuir con el contenido de Walmart Digital?
+conoce más [haciendo clic aquí]((./es/how-to-contribute.md))
