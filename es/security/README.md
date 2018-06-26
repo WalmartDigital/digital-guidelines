@@ -11,6 +11,6 @@ Bienvenido al portal de conocimiento de seguridad de Walmart Digital Chile. Aqu�
 * Implementar las mejores prácticas de seguridad para mitigar riesgos de seguridad en el mundo real
 
 Las directrices se articulan en torno a los tres pilares de la ingeniería de seguridad que son los siguientes:  
-* ### [Arquitectura y diseño seguro?](es/security/arquitectura.md)  
-* ### [??????Prácticas de desarrollo defensivo](es/security/desarrollo.md)
-* ### [Estándares de configu?ración??](es/security/estandar-configuracion.md)
+* ### [Arquitectura y diseño seguro](es/security/arquitectura.md)  
+* ### [Prácticas de desarrollo defensivo](es/security/desarrollo.md)
+* ### [Estándares de configuración](es/security/estandar-configuracion.md)
