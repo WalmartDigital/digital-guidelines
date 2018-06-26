@@ -1,8 +1,7 @@
 ---
 title: "Lineamientos de Seguridad"
 description: Sobre lineamientos de seguridad para los equipos de desarrollo
-authors: "César Vergara", "Chin Dou"
-
+authors: "César Vergara y Chin Dou"
 ---
 
 ## Lineamientos de Seguridad
