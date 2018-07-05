@@ -45,8 +45,3 @@ Para Microsoft IIS, siga los siguientes pasos:
 -   Seleccione [headerLimits](http://www.iis.net/configreference/system.webserver/security/requestfiltering/requestlimits/headerlimits) para configurar el tipo y tamaño de encabezado que su servirdor web aceptará.
 -   Limite los atributos de la petición a través del elemento [<requestlimits>](http://www.iis.net/configreference/system.webserver/security/requestfiltering/requestlimits), específicamente los atributos maxAllowedContentLength, maxQueryString, y maxUrl.
 
-### Autores
-**- Chin Dou**
-
-**- César Vergara**
-
