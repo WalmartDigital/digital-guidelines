@@ -1,5 +1,5 @@
 ---
-title: "Estándares de Configuración TLS"
+title: "Habilitar encabezados de seguridad HTTP"
 description: "Sobre Estándares de Seguridad"
 author: "Chin Dou / César Vergara"
 ---
