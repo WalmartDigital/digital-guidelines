@@ -41,8 +41,4 @@ Así se debe configurar la sesión de la cookie como segura en el descriptor de 
 ​Header edit Set-Cookie ^(.*)$ $1;HttpOnly;Secure
 ````
 
-### Autores
-**- Chin Dou**
-
-**- César Vergara**
 
