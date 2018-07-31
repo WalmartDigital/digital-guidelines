@@ -6,7 +6,7 @@ author: "Chin Dou / César Vergara"
  
  ## Desactivar métodos peligrosos HTTP
 
-La mayoría de las aplicaciones web utilizan solamente los métodos de petición HTTP GET y POST. Como un esfuerzo para reducir al máximo la superficie de ataque de sus sistemas, usted debe deshabilitar todos los demás métodos HTTP innecesarios, incluyendo:
+La mayoría de las aplicaciones web utilizan solamente los métodos de petición HTTP GET y POST. Como un esfuerzo para reducir al máximo la superficie de ataque de sus sistemas, usted debe deshabilitar todos los demás métodos HTTP que no serán utilizados y que no tienen una justificación de negocio, estos métodos incluyen:
 
 -   HEAD
 -   PUT
